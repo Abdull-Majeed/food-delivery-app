@@ -1,6 +1,6 @@
 # food_delivery
 
-A new Flutter project.
+Food delivery Flutter project with firebase authentication.
 
 ## Getting Started
 
@@ -14,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# food-delivery-app
+# food-delivery-app #flutter
