@@ -57,7 +57,7 @@ Before running the project, make sure you have the following set up:
 Follow these steps to set up and run the app locally:  
 
  1️⃣ **Clone the Repository**  
-git clone https://github.com/yourusername/food-delivery-app.git  
+git clone https://github.com/abdull-majeed/food-delivery-app.git  
 cd food-delivery-app  
 
 2️⃣ **Install Dependencies**
